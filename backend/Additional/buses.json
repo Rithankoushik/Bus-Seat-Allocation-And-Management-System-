@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "driver": "Driver 1",
+    "seatingCapacity": 30,
+    "currentAttendance": 35,
+    "location": "13.0827,80.2707",
+    "latitude": 13.0827,
+    "longitude": 80.2707,
+    "collegeCampus": {
+      "latitude": 13.0382,
+      "longitude": 80.0454
+    }
+  },
+  {
+    "id": 2,
+    "driver": "Driver 2",
+    "seatingCapacity": 40,
+    "currentAttendance": 15,
+    "location": "13.0827,80.2707",
+    "latitude": 13.0827,
+    "longitude": 80.2707,
+    "collegeCampus": {
+      "latitude": 13.0382,
+      "longitude": 80.0454
+    }
+  },
+  {
+    "id": 3,
+    "driver": "Driver 3",
+    "seatingCapacity": 45,
+    "currentAttendance": 45,
+    "location": "13.067439,80.237617",
+    "latitude": 13.067439,
+    "longitude": 80.237617,
+    "collegeCampus": {
+      "latitude": 13.0382,
+      "longitude": 80.0454
+    }
+  },
+  {
+    "id": 4,
+    "driver": "Driver 4",
+    "seatingCapacity": 35,
+    "currentAttendance": 10,
+    "location": "13.067439,80.237617",
+    "latitude": 13.067439,
+    "longitude": 80.237617,
+    "collegeCampus": {
+      "latitude": 13.0382,
+      "longitude": 80.0454
+    }
+  },
+  {
+    "id": 5,
+    "driver": "Driver 5",
+    "seatingCapacity": 50,
+    "currentAttendance": 45,
+    "location": "13.0524,80.2508",
+    "latitude": 13.0524,
+    "longitude": 80.2508,
+    "collegeCampus": {
+      "latitude": 13.0382,
+      "longitude": 80.0454
+    }
+  },
+  {
+    "id": 6,
+    "driver": "Driver 6",
+    "seatingCapacity": 40,
+    "currentAttendance": 20,
+    "location": "13.0524,80.2508",
+    "latitude": 13.0524,
+    "longitude": 80.2508,
+    "collegeCampus": {
+      "latitude": 13.0382,
+      "longitude": 80.0454
+    }
+  }
+]
