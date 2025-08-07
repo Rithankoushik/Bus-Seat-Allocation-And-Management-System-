@@ -1,4 +1,5 @@
  Passenger Management and Reallocation System
+ 
 📌 Project Overview
 The Passenger Management and Reallocation System is an intelligent, real-time college transportation management platform that automates the monitoring of student bus attendance, dynamically reallocates students to nearby buses when overcapacity is detected, and combines underutilized buses based on live data and route proximity.
 
